@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-FilmSeeker/static/css/main.3292250f.css",
+    "main.js": "/React-FilmSeeker/static/js/main.2e73ab23.js",
+    "index.html": "/React-FilmSeeker/index.html",
+    "static/media/search.svg": "/React-FilmSeeker/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.3292250f.css.map": "/React-FilmSeeker/static/css/main.3292250f.css.map",
+    "main.2e73ab23.js.map": "/React-FilmSeeker/static/js/main.2e73ab23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.2e73ab23.js"
+  ]
+}
